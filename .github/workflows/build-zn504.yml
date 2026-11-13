@@ -1,4 +1,4 @@
-name: Build PonWrt (ZN504XG-D & HG5585F)
+name: Build PonWrt (AN7581全系)
 
 on:
   workflow_dispatch:
